@@ -1,4 +1,7 @@
 ### Hi there 👋
+I’m currently a medical student who seek to learn back-end web development.
+Currently I am learning Django web framework.
+I can communicate in both arabic and english.
 
 <!--
 **Omar-Ibrahim-0I/Omar-Ibrahim-0I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
