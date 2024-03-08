@@ -1,15 +1,15 @@
 # Welcome, fellow Programmers!! I'm Omar
-> I’m currently 3rd year student at the School of Veterinary Medicine at Cairo University. <br>
+> I’m currently a third-year student at the School of Veterinary Medicine at Cairo University. <br>
 > A lifelong fascination with computers fueled my early enlightenment into the world of software development. This curiosity extends to delve into deepening my knowledge of this world. 
 
 ## Current plans in the field of Computer Science
-- Deepen my knowledge of programming language in general by learning and understanding C++ programming language, which is the prerequisite for learning Data structure and algorithms.
-- Review mastered mathematics concepts and learn Calculus.
+- Deepen my knowledge of programming in general by learning and understanding C++ programming language, which is the prerequisite for learning Data structure and algorithms.
+- Review advanced mathematics concepts and learn Calculus.
 
 ## Current plans in the field of Web development
 - Frontend:
-	- React => learning React React Class Components & SSR
- 	- Work on more projects
+	- React => learning Class Components & server-side rendering (SSR)
+ 	- Work on more projects using react
 - Backend:
 	- Currently learning MongoDB
 
@@ -29,7 +29,7 @@
 - MongoDB			=> Beginner
 ### Development Tools
 - Docker 			=> Intermediate
-- Docker compose 	=> Intermediate
+- Docker compose 		=> Intermediate
 - GitHub 			=> Intermediate
 - Bash				=> Beginner
 ### Web Design
@@ -37,10 +37,11 @@
 
 ### Computer skills
 - Linux & Windows user (dual booting)
-- Adobe Photoshop 						=> Beginner
+- Microsft Word and PowerPoint 				=> Mastery
+- Microsft Excel 					=> Intermediate
+- Adobe Photoshop 					=> Beginner
 - Adobe Illustrator 					=> Beginner
-- Microsft Word and PowerPoint 			=> Mastery
-- Microsft Excel 						=> Intermediate 
+- markdown (MD)						=> Mastery
 
 ### Language proficiency
 - Arabic 	=> native
