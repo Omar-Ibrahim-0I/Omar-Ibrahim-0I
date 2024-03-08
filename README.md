@@ -15,12 +15,12 @@
 
 ## Skills in field web development
 ### Frontend
-- HTML5 & CSS3 		=> Intermediate
-- JavaScript 		=> Intermediate
-- TypeScript 		=> Beginner
-- React v.18		=> Intermediate
-- Angular v.17 		=> Intermediate
-- SASS				=> Beginner
+- HTML5 & CSS3 			=> Intermediate
+- JavaScript 			=> Intermediate
+- TypeScript 			=> Beginner
+- React v.18			=> Intermediate
+- Angular v.17 			=> Intermediate
+- SASS				=> Intermediate
 ### Backend
 - Python			=> Intermediate
 - FastAPI			=> Intermediate
